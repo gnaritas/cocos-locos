@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /thanks
+Disallow: /404
+
+Sitemap: https://cocos-locos-demo.up.railway.app/sitemap.xml

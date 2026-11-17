@@ -1,0 +1,8 @@
+{
+  "name": "cocos-locos",
+  "version": "1.0.0",
+  "description": "Cocos Locos Mexican Restaurant — opening soon at 1313 N Combee Rd, Lakeland FL (static site + node form relay)",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
